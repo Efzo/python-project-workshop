@@ -1,0 +1,4 @@
+order_id,status,amount_cents
+A10,shipped,1200
+A11,pending,990
+A12,shipped,800

@@ -1,0 +1,17 @@
+__pycache__/
+.venv/
+*.egg-info/
+build/
+dist/
+/python_fundamentals/notes.json
+/python_fundamentals/notes.json.tmp
+reading.db
+reading.db-journal
+tasks.db
+tasks.db-journal
+tasks.csv
+.env
+.pytest_cache/
+fastapi/*/data/
+python_automation/output/
+agentic_ai/output/

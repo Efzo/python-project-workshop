@@ -1,0 +1,5 @@
+[
+  {"id": "loops", "text": "A for loop visits each value in an iterable. Use range to repeat an action a fixed number of times."},
+  {"id": "files", "text": "A with block closes an opened file when control leaves the block."},
+  {"id": "tests", "text": "An assertion checks a condition. A unit test can assert that a function returns an expected value."}
+]
